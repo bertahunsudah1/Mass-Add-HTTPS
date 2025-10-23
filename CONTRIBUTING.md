@@ -1,1 +1,1 @@
-# Contributing\nPlease read CONTRIBUTING.md\n
+# Contributing\nSee contribution guidelines.\n
